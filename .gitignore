@@ -1,0 +1,26 @@
+/cnn_dailymail_test.xlsx
+/cnn_dailymail_train.xlsx
+/cnn_dailymail_validation.xlsx
+/ml_hugging_face.xlsx
+/openwebtext_ai_dataset.xlsx
+/small_dataset.xlsx
+/summarization_dataset_final
+/summarization_dataset_final.zip
+/xsum_test.xlsx
+/xsum_train.xlsx
+/xsum_validation.xlsx
+/Text-Generation/AI_1_Introduction.pdf
+/Text-Generation/AI_2_Agents.pdf
+/Text-Generation/AI_3_Search.pdf
+/Text-Generation/AI_6_CSP.pdf
+/Text-Generation/AI_7_PL.pdf
+/Text-Generation/AI_8_FOL.pdf
+/Text-Generation/AI_12_probability.pdf
+/Text-Generation/AI_13_Bayes_nets.pdf
+/Text-Generation/AI_14_Markov_models.pdf
+/Text-Generation/AI_book.pdf
+/Text-Generation/Artificial Intelligence For Dummies.pdf
+/Text-Generation/gemeration_dataset.pdf
+/LLaMA3.2-TGTS/Text-Generation/text_chunks_and_embeddings_df.csv
+Text-Generation/text_chunks_and_embeddings_df.csv
+/merged_model
