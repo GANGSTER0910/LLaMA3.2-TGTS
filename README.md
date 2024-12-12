@@ -6,7 +6,7 @@ LLaMA3.2-TGTS is a state-of-the-art natural language processing (NLP) model tail
 
 ## **Model Details**
 
-- **Model Name:** `Harsh0910/my_merged_model`  
+- **Model Name:** [`LLaMA3.2-TGTS`](https://huggingface.co/Harsh0910/LLaMA3.2-TGTS)  
 - **Tasks:** 
   - Text Summarization  
   - Text Generation  
@@ -19,7 +19,7 @@ LLaMA3.2-TGTS is a state-of-the-art natural language processing (NLP) model tail
   [Dialog-Summarization-Dataset-Formatted](https://huggingface.co/datasets/Harsh0910/Dialog-Summarization-Dataset-Formatted)
 
 - **Text Generation Dataset:**  
-  [My Session Data](https://huggingface.co/datasets/Harsh0910/my-session-data)
+  [Session Data](https://huggingface.co/Harsh0910/my-session-data)
 
 ---
 
